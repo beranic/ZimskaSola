@@ -13,7 +13,7 @@
     <artifactId>demo</artifactId>
     <version>0.0.1</version>
     <name>zimskaSola</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for spring Boot</description>
 
     <properties>
         <java.version>17</java.version>
